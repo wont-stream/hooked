@@ -8,6 +8,7 @@ module.exports = {
   },
 
   webserver: {
+    port: 3000,
     notfound: {
       redirect: "https://wont.stream", // shameless plug
     },
