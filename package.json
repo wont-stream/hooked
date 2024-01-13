@@ -1,0 +1,21 @@
+{
+  "name": "hooked",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "installer": "pnpm install --no-optional"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bufferutil": "*",
+    "discord.js": "^14.14.1",
+    "express": "*",
+    "simple-json-db": "^2.0.0",
+    "utf-8-validate": "*",
+    "ws": "^8.16.0",
+    "zlib-sync": "*"
+  }
+}
